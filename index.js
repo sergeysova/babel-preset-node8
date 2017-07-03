@@ -4,7 +4,7 @@ module.exports = {
     require('babel-plugin-transform-class-properties'),
     require('babel-plugin-transform-object-rest-spread'),
     require('babel-plugin-transform-export-extensions'),
-    require('babel-plugin-transform-async-generator-function'),
+    require('babel-plugin-transform-async-generator-functions'),
   ],
   env: {
     production: {
