@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/lestad/babel-preset-node8.git"
   },
+  "engines": {
+    "node": ">=7.10"
+  },
   "keywords": [
     "babel",
     "babel-preset",
