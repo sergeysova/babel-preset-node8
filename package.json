@@ -41,6 +41,7 @@
   "homepage": "https://github.com/lestad/babel-preset-node8#readme",
   "dependencies": {
     "babel-plugin-minify-dead-code-elimination": "^0.1.7",
+    "babel-plugin-syntax-trailing-function-commas": "^6.22.0",
     "babel-plugin-transform-async-generator-functions": "^6.24.1",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-es2015-block-scoping": "^6.24.1",
