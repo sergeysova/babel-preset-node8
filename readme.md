@@ -17,6 +17,7 @@ npm install --save-dev babel-preset-node8
 - [transform-object-rest-spread](http://babeljs.io/docs/plugins/transform-object-rest-spread)
 - [transform-export-extensions](http://babeljs.io/docs/plugins/transform-export-extensions)
 - [transform-async-generator-functions](http://babeljs.io/docs/plugins/transform-async-generator-functions)
+- [syntax-trailing-function-commas](http://babeljs.io/docs/plugins/syntax-trailing-function-commas)
 
 ### Plugins in `env.production`
 
